@@ -89,9 +89,6 @@ For KS0 Pro, voltage can be adjusted in 2mV increments.
 
 > [!NOTE]
 > Voltage control is not available for KS3/M/L at this time.
-
-<br>
-
 > [!IMPORTANT]
 > There are currently no Guardrails & no limits enforced by this software on either clocks or voltage, so use with care.
 
