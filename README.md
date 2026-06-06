@@ -91,7 +91,8 @@ VOLTAGE CONTROL IS NOT AVAILABLE FOR KS3/M/L AT THIS TIME.
 
 <br>
 
-*IMPORTANT: THERE ARE CURRENTLY NO GUARDRAILS, AND NO LIMITS ENFORCED BY THIS SOFTWARE ON EITHER CLOCKS OR VOLTAGE, SO USE WITH CARE.*
+> [!IMPORTANT]
+> There are currently no Guardrails & no limits enforced by this software on either clocks or voltage, so use with care.
 
 <br>
 
